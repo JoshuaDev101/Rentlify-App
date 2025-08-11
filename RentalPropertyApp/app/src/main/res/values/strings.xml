@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RentalPropertyApp</string>
+
+    <string-array name="role_options">
+
+        <item>tenant</item>
+        <item>landlord</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="sex_options">
+        <item>Select</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="property_types">
+        <item>Select</item>
+        <item>Apartment</item>
+        <item>House</item>
+        <item>Duplex</item>
+        <item>Condo</item>
+        <item>Townhouse</item>
+        <item>Commercial</item>
+        <item>Other</item>
+    </string-array>
+
+
+</resources>
