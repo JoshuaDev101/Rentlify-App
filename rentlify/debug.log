@@ -1,0 +1,662 @@
+2025-05-11 16:20:34 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-11 16:20:34 - Filtering for landlord_id: 36
+2025-05-11 16:20:34 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-11 16:20:34 - Success! Found 9 properties
+2025-05-12 04:43:00 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-12 04:43:00 - Filtering for landlord_id: 36
+2025-05-12 04:43:00 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 04:43:00 - Success! Found 9 properties
+2025-05-12 04:43:04 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-12 04:43:04 - Filtering for landlord_id: 36
+2025-05-12 04:43:04 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 04:43:04 - Success! Found 9 properties
+2025-05-12 04:43:07 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-12 04:43:07 - Filtering for landlord_id: 36
+2025-05-12 04:43:07 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 04:43:07 - Success! Found 9 properties
+2025-05-12 04:43:11 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-12 04:43:11 - Filtering for landlord_id: 36
+2025-05-12 04:43:11 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 04:43:11 - Success! Found 9 properties
+2025-05-12 04:43:13 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-12 04:43:13 - Filtering for landlord_id: 36
+2025-05-12 04:43:13 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 04:43:13 - Success! Found 9 properties
+2025-05-12 04:43:13 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-12 04:43:13 - Filtering for landlord_id: 36
+2025-05-12 04:43:13 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 04:43:13 - Success! Found 9 properties
+2025-05-12 04:43:29 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-12 04:43:29 - Filtering for landlord_id: 36
+2025-05-12 04:43:29 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 04:43:29 - Success! Found 9 properties
+2025-05-12 04:43:29 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-12 04:43:29 - Filtering for landlord_id: 36
+2025-05-12 04:43:29 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 04:43:29 - Success! Found 9 properties
+2025-05-12 12:56:03 - GET properties request: Array
+(
+    [landlord_id] => 97
+)
+
+2025-05-12 12:56:03 - Filtering for landlord_id: 97
+2025-05-12 12:56:03 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 12:56:03 - No properties found for landlord ID: 97
+2025-05-12 12:57:07 - GET properties request: Array
+(
+    [landlord_id] => 97
+)
+
+2025-05-12 12:57:07 - Filtering for landlord_id: 97
+2025-05-12 12:57:07 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 12:57:07 - No properties found for landlord ID: 97
+2025-05-12 12:57:07 - GET properties request: Array
+(
+    [landlord_id] => 97
+)
+
+2025-05-12 12:57:07 - Filtering for landlord_id: 97
+2025-05-12 12:57:07 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 12:57:07 - No properties found for landlord ID: 97
+2025-05-12 12:58:12 - GET properties request: Array
+(
+    [landlord_id] => 97
+)
+
+2025-05-12 12:58:12 - Filtering for landlord_id: 97
+2025-05-12 12:58:12 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 12:58:12 - Success! Found 1 properties
+2025-05-12 12:58:12 - GET properties request: Array
+(
+    [landlord_id] => 97
+)
+
+2025-05-12 12:58:12 - Filtering for landlord_id: 97
+2025-05-12 12:58:12 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 12:58:12 - Success! Found 1 properties
+2025-05-12 12:58:16 - GET properties request: Array
+(
+    [landlord_id] => 97
+)
+
+2025-05-12 12:58:16 - Filtering for landlord_id: 97
+2025-05-12 12:58:16 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 12:58:16 - Success! Found 1 properties
+2025-05-12 12:58:19 - Request method: GET
+2025-05-12 12:58:19 - POST data: Array
+(
+)
+
+2025-05-12 12:58:19 - GET data: Array
+(
+    [action] => get
+    [property_id] => 56
+)
+
+2025-05-12 12:58:19 - Raw input: 
+2025-05-12 12:58:19 - Action: get, Property ID: 56
+2025-05-12 12:58:19 - Executing SQL: SELECT 
+                    title, 
+                    location, 
+                    price, 
+                    description,
+                    bedroom as bedrooms,
+                    bathroom as bathrooms,
+                    area,
+                    availability
+                    FROM property_posts 
+                    WHERE id = 56
+2025-05-12 12:58:21 - GET properties request: Array
+(
+    [landlord_id] => 97
+)
+
+2025-05-12 12:58:21 - Filtering for landlord_id: 97
+2025-05-12 12:58:21 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 12:58:21 - Success! Found 1 properties
+2025-05-12 13:00:34 - GET properties request: Array
+(
+    [landlord_id] => 97
+)
+
+2025-05-12 13:00:34 - Filtering for landlord_id: 97
+2025-05-12 13:00:34 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 13:00:34 - Success! Found 1 properties
+2025-05-12 13:00:41 - GET properties request: Array
+(
+    [landlord_id] => 97
+)
+
+2025-05-12 13:00:41 - Filtering for landlord_id: 97
+2025-05-12 13:00:41 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 13:00:41 - Success! Found 1 properties
+2025-05-12 13:00:45 - GET properties request: Array
+(
+    [landlord_id] => 97
+)
+
+2025-05-12 13:00:45 - Filtering for landlord_id: 97
+2025-05-12 13:00:45 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 13:00:45 - Success! Found 1 properties
+2025-05-12 13:01:28 - GET properties request: Array
+(
+    [landlord_id] => 97
+)
+
+2025-05-12 13:01:28 - Filtering for landlord_id: 97
+2025-05-12 13:01:28 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 13:01:28 - Success! Found 1 properties
+2025-05-12 13:01:31 - GET properties request: Array
+(
+    [landlord_id] => 97
+)
+
+2025-05-12 13:01:31 - Filtering for landlord_id: 97
+2025-05-12 13:01:31 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 13:01:31 - Success! Found 1 properties
+2025-05-12 13:01:34 - GET properties request: Array
+(
+    [landlord_id] => 97
+)
+
+2025-05-12 13:01:34 - Filtering for landlord_id: 97
+2025-05-12 13:01:34 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 13:01:34 - Success! Found 1 properties
+2025-05-12 13:01:34 - GET properties request: Array
+(
+    [landlord_id] => 97
+)
+
+2025-05-12 13:01:34 - Filtering for landlord_id: 97
+2025-05-12 13:01:34 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 13:01:34 - Success! Found 1 properties
+2025-05-12 13:02:49 - GET properties request: Array
+(
+    [landlord_id] => 97
+)
+
+2025-05-12 13:02:49 - Filtering for landlord_id: 97
+2025-05-12 13:02:49 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 13:02:49 - Success! Found 1 properties
+2025-05-12 13:02:57 - GET properties request: Array
+(
+    [landlord_id] => 97
+)
+
+2025-05-12 13:02:57 - Filtering for landlord_id: 97
+2025-05-12 13:02:57 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 13:02:57 - Success! Found 1 properties
+2025-05-12 13:02:57 - GET properties request: Array
+(
+    [landlord_id] => 97
+)
+
+2025-05-12 13:02:57 - Filtering for landlord_id: 97
+2025-05-12 13:02:57 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 13:02:57 - Success! Found 1 properties
+2025-05-12 13:03:13 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-12 13:03:13 - Filtering for landlord_id: 36
+2025-05-12 13:03:13 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 13:03:13 - Success! Found 9 properties
+2025-05-12 13:03:20 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-12 13:03:20 - Filtering for landlord_id: 36
+2025-05-12 13:03:20 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 13:03:20 - Success! Found 9 properties
+2025-05-12 13:03:32 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-12 13:03:32 - Filtering for landlord_id: 36
+2025-05-12 13:03:32 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 13:03:32 - Success! Found 9 properties
+2025-05-12 13:03:37 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-12 13:03:37 - Filtering for landlord_id: 36
+2025-05-12 13:03:37 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 13:03:37 - Success! Found 9 properties
+2025-05-12 13:03:50 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-12 13:03:50 - Filtering for landlord_id: 36
+2025-05-12 13:03:50 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 13:03:50 - Success! Found 9 properties
+2025-05-12 13:03:50 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-12 13:03:50 - Filtering for landlord_id: 36
+2025-05-12 13:03:50 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 13:03:50 - Success! Found 9 properties
+2025-05-12 13:03:56 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-12 13:03:56 - Filtering for landlord_id: 36
+2025-05-12 13:03:56 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 13:03:56 - Success! Found 9 properties
+2025-05-12 13:03:56 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-12 13:03:56 - Filtering for landlord_id: 36
+2025-05-12 13:03:56 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 13:03:56 - Success! Found 9 properties
+2025-05-12 13:04:21 - GET properties request: Array
+(
+    [landlord_id] => 97
+)
+
+2025-05-12 13:04:21 - Filtering for landlord_id: 97
+2025-05-12 13:04:21 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 13:04:21 - Success! Found 1 properties
+2025-05-12 13:12:42 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-12 13:12:42 - Filtering for landlord_id: 36
+2025-05-12 13:12:42 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 13:12:42 - Success! Found 9 properties
+2025-05-12 13:12:48 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-12 13:12:48 - Filtering for landlord_id: 36
+2025-05-12 13:12:48 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 13:12:48 - Success! Found 9 properties
+2025-05-12 14:14:57 - GET properties request: Array
+(
+    [landlord_id] => 93
+)
+
+2025-05-12 14:14:57 - Filtering for landlord_id: 93
+2025-05-12 14:14:57 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 14:14:57 - Success! Found 4 properties
+2025-05-12 14:18:51 - GET properties request: Array
+(
+    [landlord_id] => 93
+)
+
+2025-05-12 14:18:51 - Filtering for landlord_id: 93
+2025-05-12 14:18:51 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 14:18:51 - Success! Found 4 properties
+2025-05-12 14:19:09 - GET properties request: Array
+(
+    [landlord_id] => 93
+)
+
+2025-05-12 14:19:09 - Filtering for landlord_id: 93
+2025-05-12 14:19:09 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 14:19:09 - Success! Found 4 properties
+2025-05-12 14:25:45 - GET properties request: Array
+(
+    [landlord_id] => 93
+)
+
+2025-05-12 14:25:45 - Filtering for landlord_id: 93
+2025-05-12 14:25:45 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 14:25:45 - Success! Found 4 properties
+2025-05-12 14:25:50 - GET properties request: Array
+(
+    [landlord_id] => 93
+)
+
+2025-05-12 14:25:50 - Filtering for landlord_id: 93
+2025-05-12 14:25:50 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 14:25:50 - Success! Found 4 properties
+2025-05-12 14:33:37 - GET properties request: Array
+(
+    [landlord_id] => 93
+)
+
+2025-05-12 14:33:37 - Filtering for landlord_id: 93
+2025-05-12 14:33:37 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 14:33:37 - Success! Found 4 properties
+2025-05-12 14:39:15 - GET properties request: Array
+(
+    [landlord_id] => 93
+)
+
+2025-05-12 14:39:15 - Filtering for landlord_id: 93
+2025-05-12 14:39:15 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-12 14:39:15 - Success! Found 4 properties
+2025-05-13 08:41:19 - GET properties request: Array
+(
+    [landlord_id] => 93
+)
+
+2025-05-13 08:41:19 - Filtering for landlord_id: 93
+2025-05-13 08:41:19 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-13 08:41:19 - Success! Found 4 properties
+2025-05-13 09:31:38 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-13 09:31:38 - Filtering for landlord_id: 36
+2025-05-13 09:31:38 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-13 09:31:38 - Success! Found 9 properties
+2025-05-13 09:31:57 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-13 09:31:57 - Filtering for landlord_id: 36
+2025-05-13 09:31:57 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-13 09:31:57 - Success! Found 9 properties
+2025-05-13 09:32:03 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-13 09:32:03 - Filtering for landlord_id: 36
+2025-05-13 09:32:03 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-13 09:32:03 - Success! Found 9 properties
+2025-05-13 10:40:20 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-13 10:40:21 - Filtering for landlord_id: 36
+2025-05-13 10:40:21 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-13 10:40:21 - Success! Found 9 properties
+2025-05-13 10:40:30 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-13 10:40:30 - Filtering for landlord_id: 36
+2025-05-13 10:40:30 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-13 10:40:30 - Success! Found 9 properties
+2025-05-13 10:44:13 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-13 10:44:13 - Filtering for landlord_id: 36
+2025-05-13 10:44:13 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-13 10:44:13 - Success! Found 9 properties
+2025-05-13 10:44:16 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-13 10:44:16 - Filtering for landlord_id: 36
+2025-05-13 10:44:16 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-13 10:44:16 - Success! Found 9 properties
+2025-05-13 10:44:16 - GET properties request: Array
+(
+    [landlord_id] => 36
+)
+
+2025-05-13 10:44:16 - Filtering for landlord_id: 36
+2025-05-13 10:44:16 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-13 10:44:16 - Success! Found 9 properties
+2025-05-13 11:26:50 - GET properties request: Array
+(
+    [landlord_id] => 94
+)
+
+2025-05-13 11:26:50 - Filtering for landlord_id: 94
+2025-05-13 11:26:50 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-13 11:26:50 - Success! Found 1 properties
+2025-05-13 11:39:32 - GET properties request: Array
+(
+    [landlord_id] => 95
+)
+
+2025-05-13 11:39:32 - Filtering for landlord_id: 95
+2025-05-13 11:39:32 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-13 11:39:32 - Success! Found 1 properties
+2025-05-13 11:48:46 - GET properties request: Array
+(
+    [landlord_id] => 95
+)
+
+2025-05-13 11:48:46 - Filtering for landlord_id: 95
+2025-05-13 11:48:46 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-13 11:48:46 - Success! Found 1 properties
+2025-05-13 11:49:34 - GET properties request: Array
+(
+    [landlord_id] => 95
+)
+
+2025-05-13 11:49:34 - Filtering for landlord_id: 95
+2025-05-13 11:49:34 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-13 11:49:34 - Success! Found 1 properties
+2025-05-13 11:49:38 - GET properties request: Array
+(
+    [landlord_id] => 95
+)
+
+2025-05-13 11:49:38 - Filtering for landlord_id: 95
+2025-05-13 11:49:38 - SQL: SELECT id, title as property_name, location, price as rent, image_path, 
+                   bedroom as bedroom, bathroom as bathroom, area, availability
+            FROM property_posts
+            WHERE landlord_id = ?
+2025-05-13 11:49:38 - Success! Found 1 properties

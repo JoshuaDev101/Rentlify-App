@@ -1,0 +1,6 @@
+2025-05-12 13:33:44 - Schedule visit request received
+2025-05-12 13:33:44 - Tenant ID: 31, Property ID: 53, Visit Date: 2025-04-27
+2025-05-12 13:33:44 - Visit request inserted successfully
+2025-05-12 13:34:14 - Schedule visit request received
+2025-05-12 13:34:14 - Tenant ID: 31, Property ID: 55, Visit Date: 2025-04-28
+2025-05-12 13:34:14 - Visit request inserted successfully

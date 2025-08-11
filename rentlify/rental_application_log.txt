@@ -1,0 +1,110 @@
+2025-05-10 03:28:41 - POST data: Array
+(
+    [tenant_id] => 31
+    [property_id] => 22
+)
+
+2025-05-10 03:28:41 - Sanitized values: tenant_id = 31, property_id = 22
+2025-05-10 03:28:41 - Error preparing contact statement: Unknown column 'contact_number' in 'field list'
+2025-05-10 03:28:41 - Contact number: Not provided
+2025-05-10 03:28:41 - Application inserted successfully
+2025-05-12 04:42:39 - POST data: Array
+(
+    [tenant_id] => 31
+    [property_id] => 55
+)
+
+2025-05-12 04:42:39 - Sanitized values: tenant_id = 31, property_id = 55
+2025-05-12 04:42:39 - Error preparing contact statement: Unknown column 'contact_number' in 'field list'
+2025-05-12 04:42:39 - Contact number: Not provided
+2025-05-12 04:42:39 - Application inserted successfully
+2025-05-12 12:59:47 - POST data: Array
+(
+    [tenant_id] => 98
+    [property_id] => 56
+)
+
+2025-05-12 12:59:47 - Sanitized values: tenant_id = 98, property_id = 56
+2025-05-12 12:59:47 - Error preparing contact statement: Unknown column 'contact_number' in 'field list'
+2025-05-12 12:59:47 - Contact number: Not provided
+2025-05-12 12:59:47 - Application inserted successfully
+2025-05-12 14:13:30 - POST data: Array
+(
+    [tenant_id] => 31
+    [property_id] => 36
+)
+
+2025-05-12 14:13:30 - Sanitized values: tenant_id = 31, property_id = 36
+2025-05-12 14:13:30 - Error preparing contact statement: Unknown column 'contact_number' in 'field list'
+2025-05-12 14:13:30 - Contact number: Not provided
+2025-05-12 14:13:30 - Application inserted successfully
+2025-05-13 08:40:47 - POST data: Array
+(
+    [tenant_id] => 98
+    [property_id] => 55
+)
+
+2025-05-13 08:40:47 - Sanitized values: tenant_id = 98, property_id = 55
+2025-05-13 08:40:47 - Error preparing contact statement: Unknown column 'contact_number' in 'field list'
+2025-05-13 08:40:47 - Contact number: Not provided
+2025-05-13 08:40:47 - Application inserted successfully
+2025-05-13 09:31:09 - POST data: Array
+(
+    [tenant_id] => 98
+    [property_id] => 53
+)
+
+2025-05-13 09:31:09 - Sanitized values: tenant_id = 98, property_id = 53
+2025-05-13 09:31:09 - Error preparing contact statement: Unknown column 'contact_number' in 'field list'
+2025-05-13 09:31:09 - Contact number: Not provided
+2025-05-13 09:31:09 - Application inserted successfully
+2025-05-13 10:08:51 - POST data: Array
+(
+    [tenant_id] => 98
+    [property_id] => 37
+)
+
+2025-05-13 10:08:51 - Sanitized values: tenant_id = 98, property_id = 37
+2025-05-13 10:08:51 - Error preparing contact statement: Unknown column 'contact_number' in 'field list'
+2025-05-13 10:08:51 - Contact number: Not provided
+2025-05-13 10:08:51 - Application inserted successfully
+2025-05-13 10:19:43 - POST data: Array
+(
+    [tenant_id] => 98
+    [property_id] => 30
+)
+
+2025-05-13 10:19:43 - Sanitized values: tenant_id = 98, property_id = 30
+2025-05-13 10:19:43 - Error preparing contact statement: Unknown column 'contact_number' in 'field list'
+2025-05-13 10:19:43 - Contact number: Not provided
+2025-05-13 10:19:43 - Application inserted successfully
+2025-05-13 10:21:48 - POST data: Array
+(
+    [tenant_id] => 98
+    [property_id] => 24
+)
+
+2025-05-13 10:21:48 - Sanitized values: tenant_id = 98, property_id = 24
+2025-05-13 10:21:48 - Error preparing contact statement: Unknown column 'contact_number' in 'field list'
+2025-05-13 10:21:48 - Contact number: Not provided
+2025-05-13 10:21:48 - Application inserted successfully
+2025-05-13 10:40:07 - POST data: Array
+(
+    [tenant_id] => 98
+    [property_id] => 52
+)
+
+2025-05-13 10:40:07 - Sanitized values: tenant_id = 98, property_id = 52
+2025-05-13 10:40:07 - Error preparing contact statement: Unknown column 'contact_number' in 'field list'
+2025-05-13 10:40:07 - Contact number: Not provided
+2025-05-13 10:40:07 - Application inserted successfully
+2025-05-13 11:25:07 - POST data: Array
+(
+    [tenant_id] => 98
+    [property_id] => 26
+)
+
+2025-05-13 11:25:07 - Sanitized values: tenant_id = 98, property_id = 26
+2025-05-13 11:25:07 - Error preparing contact statement: Unknown column 'contact_number' in 'field list'
+2025-05-13 11:25:07 - Contact number: Not provided
+2025-05-13 11:25:07 - Application inserted successfully

@@ -1,0 +1,18 @@
+[12-May-2025 12:56:03 Europe/Berlin] PHP Warning:  Undefined variable $stmt_income in C:\Apps\Xampp\IDE\htdocs\rentlify\get_properties.php on line 128
+[12-May-2025 12:56:03 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in C:\Apps\Xampp\IDE\htdocs\rentlify\get_properties.php:128
+Stack trace:
+#0 C:\Apps\Xampp\IDE\htdocs\rentlify\get_properties.php(128): mysqli_stmt_close(NULL)
+#1 {main}
+  thrown in C:\Apps\Xampp\IDE\htdocs\rentlify\get_properties.php on line 128
+[12-May-2025 12:57:07 Europe/Berlin] PHP Warning:  Undefined variable $stmt_income in C:\Apps\Xampp\IDE\htdocs\rentlify\get_properties.php on line 128
+[12-May-2025 12:57:07 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in C:\Apps\Xampp\IDE\htdocs\rentlify\get_properties.php:128
+Stack trace:
+#0 C:\Apps\Xampp\IDE\htdocs\rentlify\get_properties.php(128): mysqli_stmt_close(NULL)
+#1 {main}
+  thrown in C:\Apps\Xampp\IDE\htdocs\rentlify\get_properties.php on line 128
+[12-May-2025 12:57:07 Europe/Berlin] PHP Warning:  Undefined variable $stmt_income in C:\Apps\Xampp\IDE\htdocs\rentlify\get_properties.php on line 128
+[12-May-2025 12:57:07 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, null given in C:\Apps\Xampp\IDE\htdocs\rentlify\get_properties.php:128
+Stack trace:
+#0 C:\Apps\Xampp\IDE\htdocs\rentlify\get_properties.php(128): mysqli_stmt_close(NULL)
+#1 {main}
+  thrown in C:\Apps\Xampp\IDE\htdocs\rentlify\get_properties.php on line 128

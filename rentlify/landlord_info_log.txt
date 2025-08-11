@@ -1,0 +1,126 @@
+2025-05-13 11:10:04 - POST data: Array
+(
+    [property_id] => 22
+)
+
+2025-05-13 11:10:04 - Sanitized value: property_id = 22
+2025-05-13 11:10:04 - Landlord info retrieved successfully
+2025-05-13 11:10:08 - POST data: Array
+(
+    [property_id] => 22
+)
+
+2025-05-13 11:10:08 - Sanitized value: property_id = 22
+2025-05-13 11:10:08 - Landlord info retrieved successfully
+2025-05-13 11:10:12 - POST data: Array
+(
+    [property_id] => 22
+)
+
+2025-05-13 11:10:12 - Sanitized value: property_id = 22
+2025-05-13 11:10:12 - Landlord info retrieved successfully
+2025-05-13 11:10:16 - POST data: Array
+(
+    [property_id] => 22
+)
+
+2025-05-13 11:10:16 - Sanitized value: property_id = 22
+2025-05-13 11:10:16 - Landlord info retrieved successfully
+2025-05-13 11:11:05 - POST data: Array
+(
+    [property_id] => 22
+)
+
+2025-05-13 11:11:05 - Sanitized value: property_id = 22
+2025-05-13 11:11:05 - Landlord info retrieved successfully
+2025-05-13 11:11:13 - POST data: Array
+(
+    [property_id] => 35
+)
+
+2025-05-13 11:11:13 - Sanitized value: property_id = 35
+2025-05-13 11:11:13 - Landlord info retrieved successfully
+2025-05-13 11:11:30 - POST data: Array
+(
+    [property_id] => 35
+)
+
+2025-05-13 11:11:30 - Sanitized value: property_id = 35
+2025-05-13 11:11:30 - Landlord info retrieved successfully
+2025-05-13 11:24:42 - POST data: Array
+(
+    [property_id] => 24
+)
+
+2025-05-13 11:24:42 - Sanitized value: property_id = 24
+2025-05-13 11:24:42 - Landlord info retrieved successfully
+2025-05-13 11:24:59 - POST data: Array
+(
+    [property_id] => 26
+)
+
+2025-05-13 11:24:59 - Sanitized value: property_id = 26
+2025-05-13 11:24:59 - Landlord info retrieved successfully
+2025-05-13 11:25:11 - POST data: Array
+(
+    [property_id] => 30
+)
+
+2025-05-13 11:25:11 - Sanitized value: property_id = 30
+2025-05-13 11:25:11 - No landlord info found for property ID: 30
+2025-05-13 11:25:15 - POST data: Array
+(
+    [property_id] => 30
+)
+
+2025-05-13 11:25:15 - Sanitized value: property_id = 30
+2025-05-13 11:25:15 - No landlord info found for property ID: 30
+2025-05-13 11:25:20 - POST data: Array
+(
+    [property_id] => 35
+)
+
+2025-05-13 11:25:20 - Sanitized value: property_id = 35
+2025-05-13 11:25:20 - Landlord info retrieved successfully
+2025-05-13 11:25:25 - POST data: Array
+(
+    [property_id] => 30
+)
+
+2025-05-13 11:25:25 - Sanitized value: property_id = 30
+2025-05-13 11:25:25 - No landlord info found for property ID: 30
+2025-05-13 11:25:27 - POST data: Array
+(
+    [property_id] => 30
+)
+
+2025-05-13 11:25:27 - Sanitized value: property_id = 30
+2025-05-13 11:25:27 - No landlord info found for property ID: 30
+2025-05-13 11:25:35 - POST data: Array
+(
+    [property_id] => 37
+)
+
+2025-05-13 11:25:35 - Sanitized value: property_id = 37
+2025-05-13 11:25:35 - Landlord info retrieved successfully
+2025-05-13 11:25:44 - POST data: Array
+(
+    [property_id] => 45
+)
+
+2025-05-13 11:25:44 - Sanitized value: property_id = 45
+2025-05-13 11:25:44 - Landlord info retrieved successfully
+2025-05-13 11:38:39 - POST data: Array
+(
+    [property_id] => 35
+)
+
+2025-05-13 11:38:39 - Sanitized value: property_id = 35
+2025-05-13 11:38:39 - Landlord info retrieved successfully
+2025-05-13 11:50:24 - POST data: Array
+(
+    [property_id] => 35
+)
+
+2025-05-13 11:50:24 - Sanitized value: property_id = 35
+2025-05-13 11:50:24 - Landlord info retrieved successfully

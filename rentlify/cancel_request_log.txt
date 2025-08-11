@@ -1,0 +1,28 @@
+2025-05-13 10:09:09 - Cancel Request: Array
+(
+    [tenant_id] => 98
+    [request_type] => rental
+    [request_id] => 54
+)
+
+2025-05-13 10:12:49 - Cancel Request: Array
+(
+    [tenant_id] => 98
+    [request_type] => visit
+    [request_id] => 57
+)
+
+2025-05-13 10:19:49 - Cancel Request: Array
+(
+    [tenant_id] => 98
+    [request_type] => rental
+    [request_id] => 55
+)
+
+2025-05-13 10:49:44 - Cancel Request: Array
+(
+    [tenant_id] => 98
+    [request_type] => rental
+    [request_id] => 56
+)
+
